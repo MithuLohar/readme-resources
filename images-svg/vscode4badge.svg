@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78" height="20">
+    <g shape-rendering="crispEdges">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#23a8f2" d="M25 0h53v20H25z"/>
+    </g>
+    <g fill="#333"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0ODBweCIgaGVpZ2h0PSI0ODBweCI+PHBhdGggZmlsbD0iIzI5YjZmNiIgZD0iTTQ0LDExLjExdjI1Ljc4YzAsMS4yNy0wLjc5LDIuNC0xLjk4LDIuODJsLTguODIsNC4xNEwzNCwzM1YxNUwzMy4yLDQuMTVsOC44Miw0LjE0IEM0My4yMSw4LjcxLDQ0LDkuODQsNDQsMTEuMTF6Ii8+PHBhdGggZmlsbD0iIzAyNzdiZCIgZD0iTTksMzMuODk2TDM0LDE1VjUuMzUzYzAtMS4xOTgtMS40ODItMS43NTgtMi4yNzUtMC44Nkw0LjY1OCwyOS4yMzkgYy0wLjksMC44My0wLjg0OSwyLjI2NywwLjEwNywzLjAzMmMwLDAsMS4zMjQsMS4yMzIsMS44MDMsMS41NzRDNy4zMDQsMzQuMzcsOC4yNzEsMzQuNDMsOSwzMy44OTZ6Ii8+PHBhdGggZmlsbD0iIzAyODhkMSIgZD0iTTksMTQuMTA0TDM0LDMzdjkuNjQ3YzAsMS4xOTgtMS40ODIsMS43NTgtMi4yNzUsMC44Nkw0LjY1OCwxOC43NjEgYy0wLjktMC44My0wLjg0OS0yLjI2NywwLjEwNy0zLjAzMmMwLDAsMS4zMjQtMS4yMzIsMS44MDMtMS41NzRDNy4zMDQsMTMuNjMsOC4yNzEsMTMuNTcsOSwxNC4xMDR6Ii8+PC9zdmc+"/>
+        <text x="50.5" y="14">VScode</text>
+    </g>
+</svg>
